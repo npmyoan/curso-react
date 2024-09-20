@@ -1,0 +1,27 @@
+.btn-primary {
+  background-color: #1e5ae7;
+}
+
+.btn-primary:hover {
+  background-color: #0a44ca;
+}
+
+.btn-secondary {
+  background-color: #b1c1e5;
+}
+
+.btn-secondary:hover {
+  background-color: #686f7f;
+}
+
+.btn-success {
+  background-color: #17ba2f;
+}
+
+.btn-success:hover {
+  background-color: #0a911e;
+}
+
+.text-white {
+  color: #fff;
+}
