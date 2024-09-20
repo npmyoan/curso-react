@@ -5,7 +5,6 @@ function App() {
   const [btnColor, setBtnColor] = useState<string>("btn-primary");
 
   const handleClick = () => {
-    console.log("hola");
     setBtnColor("btn-success");
   };
 
